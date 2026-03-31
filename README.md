@@ -16,5 +16,5 @@ Demosntrate practical habilities in Data Engineering such as:
 - Layer modeling
 - Analytic aggregations 
 
-## 📁 Architeture 
+## 📁 Architecture 
 <img width="1717" height="562" alt="Captura de tela 2026-03-31 094813" src="https://github.com/user-attachments/assets/b70365d6-001a-421e-93c5-85f35f806bd5" />
